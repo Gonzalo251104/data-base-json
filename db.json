@@ -1,0 +1,25 @@
+{
+  "profiles": [],
+  "users": [],
+  "students": [],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Programming",
+      "description": "Learn the basics of programming using Python."
+    },
+    {
+      "id": 2,
+      "title": "Angular and TypeScript",
+      "description": "Learn the basics of programming using Angular and TypeScript."
+    },
+    {
+      "id": 3,
+      "title": "Sprint Boot and JAVA",
+      "description": "Learn the basics og programming using Sprint and JAVA."
+    }
+  ],
+  "enrollments": [],
+  "progress-record-items": [],
+  "learning-path-items": []
+}
